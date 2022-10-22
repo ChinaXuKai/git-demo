@@ -3,5 +3,5 @@ for(int i = 0; i < 15; i++){
 	System.out.print("hello xukai! hello git!");
 }
 程序结束
-6哇！
-其实也就一般....
+6吗?
+太拉啦
